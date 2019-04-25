@@ -1,0 +1,9 @@
+{
+    "desc": "multi_create",
+    "method": "GET",
+    "host": "http://localhost",
+    "path": "/api/v1/user/create",
+    "params":{
+    },
+    "result": {}
+}

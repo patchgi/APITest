@@ -1,0 +1,16 @@
+{
+    "desc": "multi_create",
+    "method": "POST",
+    "host": "http://localhost",
+    "path": "/api/v1/multi/create",
+    "params":{
+        "room_id": 123,
+        "dungeon_id": "s123",
+        "dungeon_level": 1,
+        "party_1": 1,
+        "leader": 12,
+        "target": 1,
+        "user_id": "0b84dc51-4a19-4f65-9109-0bb73b362409"
+    },
+    "result": {}
+}
