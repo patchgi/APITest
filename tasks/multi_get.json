@@ -1,8 +1,0 @@
-{
-    "desc": "test",
-    "method": "GET",
-    "host": "http://localhost",
-    "path": "/api/v1/multi/get",
-    "params":{},
-    "result": {}
-}

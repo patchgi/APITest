@@ -1,8 +1,0 @@
-{
-    "desc": "friend get",
-    "method": "GET",
-    "host": "http://localhost",
-    "path": "/api/v1/friend/get",
-    "params":{},
-    "result": {}
-}
